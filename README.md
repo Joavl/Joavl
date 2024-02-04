@@ -23,9 +23,8 @@ I'm always eager to enhance my skills and explore new technologies. My goal is t
 Take a peek into the tools I use on a daily basis:
 
 ### Front-end Development
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React
-- **Styling:** MUI (Material-UI)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ### Back-end Development
 - **Languages:** Python, C#, Java
