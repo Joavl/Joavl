@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**Joavl/Joavl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who Am I
+I'm a tech enthusiast, passionate about turning ideas into reality and making people's daily lives easier. My journey in development is fueled by the fascination of understanding how things work and exploring new ways to create practical and useful functionalities.
 
-Here are some ideas to get you started:
+## What I Love
+My genuine passion for technology stems from its ability to bring ideas to life. I believe technology is a powerful tool to make the world more accessible and efficient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Skills
+- **Languages:** C#, JavaScript
+- **Database:** SQL Server , MongoDb , MySQL
+- **Frameworks:** .NET, Entity Framework , React
+
+## Next Steps
+I'm always eager to enhance my skills and explore new technologies. My goal is to continue discovering innovative ways to develop solutions that positively impact people's lives.
+
+## Let's Connect!
+- LinkedIn: https://www.linkedin.com/in/joao-vitr-avila/
+- Email: avilamb20@gmail.com
+
+  ## 💻 Tech Stack
+
+Take a peek into the tools I use on a daily basis:
+
+### Front-end Development
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React
+- **Styling:** MUI (Material-UI)
+
+### Back-end Development
+- **Languages:** Python, C#, Java
+- **Frameworks:** ASP.NET Core, Spring Boot
+
+### Development Tools
+- **Project Management:** Notion
+- **API Testing:** Postman
+- **Transpiler:** Babel
+
+This versatile tech stack empowers me to tackle projects on both the client and server sides, ensuring an effective user experience and robust solutions. Whether building interfaces with React, developing APIs with ASP.NET Core or Spring Boot, or coordinating projects in Notion, I'm ready to take on a variety of development challenges.
+
+If you're interested in collaborating on exciting projects or just want to chat about technology, I'm always open to new connections and ideas.
+
+**Thanks for visiting my digital corner! 🚀**
